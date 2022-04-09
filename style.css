@@ -103,7 +103,8 @@
 }
 
 @media (max-width:768px) {
-  .header.navbar a span{
+  .header .navbar a span{
     display: none;
+  
   }
 }
